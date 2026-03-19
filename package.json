@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-study",
+  "version": "1.0.0",
+  "description": "Estudo de algoritmos com TypeScript baseado no livro Grokking Algorithms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx",
+    "run:ch01": "tsx src/chapter-01/binarySearch.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiMarobo/algorithms-study.git"
+  },
+  "keywords": ["algorithms", "typescript", "study"],
+  "author": "",
+  "license": "ISC"
+}
